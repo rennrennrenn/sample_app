@@ -15,3 +15,6 @@ class SiteLayoutTest < ActionDispatch::IntegrationTest
     get signup_path
   end
 end
+
+
+#10.41
